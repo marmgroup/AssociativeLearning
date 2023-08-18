@@ -11,6 +11,8 @@ We built individual-based simulations in C++ to study the evolution of associati
 Folder 'optimality' contains an Excel file that has been used to find the optimally performing networks and RW rule.
 Folder 'supplementary material' contains Appendices A-F
 
+# Acknowledgements
 
+This work was supported by the European Research Council (ERC Advanced Grant No. 789240 awarded to F.J.W.).
 
 
